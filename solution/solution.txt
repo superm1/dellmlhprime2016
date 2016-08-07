@@ -1,0 +1,9 @@
+steps
+1) qr code (dell_hdd_challenge.png)
+2) goes to goo.gl (https://goo.gl/aPkAxB)
+3) redirects to github.com
+4) they look up git commit ID
+5) use bacon cipher to manipulate ae88bf966a9b4cb173de88483ecaa2ab9d317b93
+6) brings them to box.com URL: https://dell.box.com/v/AAAAAAABAAAAAABAABAB
+7) They compile and run prog
+8) output should be a fancy segmentation fault

@@ -1,5 +1,9 @@
 You've found the QR code that corresponds to Dell's USB HDD challenge for MLH Prime 2016.
 
+Unfortunately all HDD's have already been claimed.
+Details of the solution are available now.
+
+------------------------------
 If you solve the scavenger hunt, 
 bring the result to the Dell table and we'll give you your prize!
 
